@@ -1,4 +1,4 @@
-<b>ManOS - Gerenciamento de manutenção</b>
+<h2>ManOS - Gerenciamento de manutenção</h2>
 
 O ManOS é um sistema web escrito em PHP que funciona como uma Ordem de Serviço online com o intuito de auxiliar o registro da manutenção de equipamentos eletrônicos. Tais registros podem ser do tipo:
 
@@ -13,4 +13,4 @@ O ManOS é um sistema web escrito em PHP que funciona como uma Ordem de Serviço
 
 Foi utilizado no projeto o NotORM para trabalhar com o banco de dados (http://www.notorm.com/) e o micro-framework Flight para controle de rotas (http://flightphp.com/).
 
-Fotos do sistema no link: thiagoanderson.netne.net.
+Fotos do sistema no link: <a href="thiagoanderson.netne.net">thiagoanderson.netne.net</a>.
