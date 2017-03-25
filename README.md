@@ -1,4 +1,4 @@
-ManOS - Gerenciamento de manutenção
+<b>ManOS - Gerenciamento de manutenção</b>
 
 O ManOS é um sistema web escrito em PHP que funciona como uma Ordem de Serviço online com o intuito de auxiliar o registro da manutenção de equipamentos eletrônicos. Tais registros podem ser do tipo:
 
