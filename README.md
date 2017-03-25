@@ -13,4 +13,4 @@ O ManOS é um sistema web escrito em PHP que funciona como uma Ordem de Serviço
 
 Foi utilizado no projeto o NotORM para trabalhar com o banco de dados (http://www.notorm.com/) e o micro-framework Flight para controle de rotas (http://flightphp.com/).
 
-Fotos do sistema no link: <a href="thiagoanderson.netne.net">thiagoanderson.netne.net</a>.
+Fotos do sistema no link: <a href="http://thiagoanderson.netne.net">thiagoanderson.netne.net</a>.
